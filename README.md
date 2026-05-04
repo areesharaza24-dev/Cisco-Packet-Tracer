@@ -73,24 +73,10 @@ Two PCs — **Hassan** (`192.168.1.1`) and **Hussain** (`192.168.1.2`) — are c
 
 ---
 
-## 🔮 Future Improvements
-
-Upcoming labs planned for this repository:
-
-- [ ] **VLAN Configuration** — Segmenting a network using VLANs on a managed switch
-- [ ] **Static & Dynamic Routing** — Configuring RIP and OSPF between routers
-- [ ] **Subnetting** — Designing and implementing subnet schemes from a given IP block
-- [ ] **DHCP Server Setup** — Automating IP address assignment across a LAN
-- [ ] **DNS & HTTP Simulation** — Simulating a basic client-server web request
-- [ ] **ACL (Access Control Lists)** — Controlling traffic flow between network segments
-
----
-
-## 👤 Author
+## Author
 
 **Areesha Raza**
-Cyber Security student with a growing interest in network engineering and defense.
-Currently learning CCNA-level concepts through hands-on simulation and lab practice.
+## email: areesharaza_24@gmail.com
 
 ---
 
